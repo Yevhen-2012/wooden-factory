@@ -1,0 +1,74 @@
+{
+  "oven-cabinet": {
+    "categories": [
+      "Kitchen"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories"
+  },
+  "marbella-stone-dining-table": {
+    "categories": [
+      "Kitchen"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories"
+  },
+  "functional-bookshelf": {
+    "categories": [
+      "Livingroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories"
+  },
+  "storage-bench": {
+    "categories": [
+      "Livingroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories"
+  },
+  "chic-dining-chairs": {
+    "categories": [
+      "Kitchen"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2"
+  },
+  "tv-stand": {
+    "categories": [
+      "Livingroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2"
+  },
+  "modern-bathroom-vanity": {
+    "categories": [
+      "Bedroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2"
+  },
+  "stylish-bed-frame": {
+    "categories": [
+      "Bedroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2"
+  },
+  "contemporary-desk-chair": {
+    "categories": [
+      "Livingroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3"
+  },
+  "luxury-sofa-set": {
+    "categories": [
+      "Bedroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3"
+  },
+  "rustic-coffee-table": {
+    "categories": [
+      "Livingroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3"
+  },
+  "modern-bench": {
+    "categories": [
+      "Livingroom"
+    ],
+    "source": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3"
+  }
+}

@@ -12,4 +12,5 @@ Thumbs.db
 .env.*
 !.env.example
 .migration/
+*.part
 

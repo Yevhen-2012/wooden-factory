@@ -1,0 +1,20 @@
+/* Preserve the exported catalog layout while supporting real product data. */
+[hidden] { display: none !important; }
+[data-filter-empty]:not([hidden]) { display: flex; }
+.cms_list-item { min-width: 0; }
+.collection_link { width: 100%; }
+.collection-img { width: 100%; }
+.h-catalog { overflow-wrap: anywhere; }
+.radio_label { color: #79716b; cursor: pointer; }
+.radio_field:hover .radio_label, .radio_field.is-list-active .radio_label { color: #140b0b; }
+.radio_field:focus-within { outline: 2px solid currentColor; outline-offset: 3px; }
+.filter_list-2.is-collapsed { display: none; }
+.filter_dd_toggle { cursor: pointer; }
+.product-photo-button { padding: 0; border: 0; background: transparent; flex: 0 0 calc((100% - 30px) / 4); cursor: pointer; }
+.product-photo-button:focus-visible { outline: 3px solid #76664d; outline-offset: 3px; }
+.product-photo-button .is-active-thumb { opacity: 1; }
+.product-thumbs .cms-list { flex-wrap: wrap; gap: 10px; }
+.product-content-text, .product-content-img { min-width: 0; }
+.product-content-text h1, .breadcrumbs-wraper { overflow-wrap: anywhere; }
+.product-main-img { object-fit: contain; background: #f7f4ef; }
+.product-price-wraper { gap: .75rem; align-items: center; }

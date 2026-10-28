@@ -1,0 +1,542 @@
+[
+  {
+    "id": "6932dcb34bd97771d9be71b6",
+    "variantId": "6932dcb4fe8bd8d7cd5fc9f7",
+    "slug": "oven-cabinet",
+    "name": "Oven Cabinet",
+    "description": "This luxurious oven cabinet features deep black marble with elegant white veining, highlighted by refined gold accents. Designed for modern high-end interiors, it combines striking aesthetics with exceptional craftsmanship, creating a bold and timeless statement piece.",
+    "type": "Physical",
+    "categories": [
+      "Kitchen"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories",
+    "price": {
+      "cents": 73000,
+      "currency": "EUR",
+      "display": "€730.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/6932dc8af2ab2535fcfc7a34_Oven-Cabinet-1.webp",
+    "images": [
+      "images/products/6932dc8af2ab2535fcfc7a34_Oven-Cabinet-1.webp",
+      "images/products/6932dc943b694713913d4745_Oven-Cabinet-2.webp",
+      "images/products/6932dc94ce9d15219b58663b_Oven-Cabinet-3.webp",
+      "images/products/6932dc94cc8059759bcf98f9_Oven-Cabinet-4.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932dc8af2ab2535fcfc7a34_Oven%20Cabinet-1.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932dc8af2ab2535fcfc7a34_Oven%20Cabinet-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932dc943b694713913d4745_Oven%20Cabinet-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932dc94ce9d15219b58663b_Oven%20Cabinet-3.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932dc94cc8059759bcf98f9_Oven%20Cabinet-4.webp"
+      ],
+      "publishedOn": "Fri Dec 05 2025 13:23:27 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "6932d15da8263d0cab9b0675",
+    "variantId": "6932d15ebb5a7be9b085f137",
+    "slug": "marbella-stone-dining-table",
+    "name": "Marbella Stone Dining Table",
+    "description": "Crafted from natural oak and finished with a smooth marble top, this dining table blends elegant lines and refined detailing. Its warm tones and premium materials create a timeless centerpiece that enhances any modern kitchen or dining interior with subtle sophistication and enduring style.",
+    "type": "Physical",
+    "categories": [
+      "Kitchen"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories",
+    "price": {
+      "cents": 94000,
+      "currency": "EUR",
+      "display": "€940.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/6932d150b86dc72da667f71e_table-4.webp",
+    "images": [
+      "images/products/6932d150b86dc72da667f71e_table-4.webp",
+      "images/products/6932d157c5fd59aa1ef78ba2_table-1.webp",
+      "images/products/6932d1576b1cde636e2a3e2a_table-2.webp",
+      "images/products/6932d156be7bba20fd26effa_table-3-.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932d150b86dc72da667f71e_table-4.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932d150b86dc72da667f71e_table-4.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932d157c5fd59aa1ef78ba2_table-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932d1576b1cde636e2a3e2a_table-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932d156be7bba20fd26effa_table-3%20.webp"
+      ],
+      "publishedOn": "Fri Dec 05 2025 12:36:43 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692eb550086d5a78cd21ed5a",
+    "variantId": "692eb5510867eba46f4aa008",
+    "slug": "functional-bookshelf",
+    "name": "Functional Bookshelf",
+    "description": "This walnut bookshelf provides generous storage for books and décor while maintaining a clean modern look. Its sturdy build and refined finish make it a stylish addition to any room.",
+    "type": "Physical",
+    "categories": [
+      "Livingroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories",
+    "price": {
+      "cents": 39000,
+      "currency": "EUR",
+      "display": "€390.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/6911153e831f21f8cbd3ee62_functional-bookshelf.webp",
+    "images": [
+      "images/products/6911153e831f21f8cbd3ee62_functional-bookshelf.webp",
+      "images/products/69111557bce6c546f7373713_functional-bookshelf--2-.webp",
+      "images/products/6932c4b65593eff6f173f278_bookshelf-provides-4.webp",
+      "images/products/6932c4b6053e35fa89a5e39e_bookshelf-provides-5.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911153e831f21f8cbd3ee62_functional-bookshelf.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911153e831f21f8cbd3ee62_functional-bookshelf.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111557bce6c546f7373713_functional-bookshelf%20(2).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c4b65593eff6f173f278_bookshelf-provides-4.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c4b6053e35fa89a5e39e_bookshelf-provides-5.webp"
+      ],
+      "publishedOn": "Wed Dec 03 2025 10:50:00 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692eb4f4b15149f772cc0f24",
+    "variantId": "692eb4f5d9500f636fc3f0fe",
+    "slug": "storage-bench",
+    "name": "Storage Bench",
+    "description": "This versatile linen-finish storage bench offers both seating and hidden space for essentials. Ideal for entryways or living rooms, it blends practicality with a clean, modern look.",
+    "type": "Physical",
+    "categories": [
+      "Livingroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories",
+    "price": {
+      "cents": 68000,
+      "currency": "EUR",
+      "display": "€680.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/69111518a61f988643deb8e9_storage-bench--4-.webp",
+    "images": [
+      "images/products/69111518a61f988643deb8e9_storage-bench--4-.webp",
+      "images/products/6911152d37dad6ad289a982d_storage-bench--2-.webp",
+      "images/products/6911152dbce6c546f737301d_storage-bench--3-.webp",
+      "images/products/6911152dd8754ad0d0798654_storage-bench.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111518a61f988643deb8e9_storage-bench%20(4).webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111518a61f988643deb8e9_storage-bench%20(4).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911152d37dad6ad289a982d_storage-bench%20(2).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911152dbce6c546f737301d_storage-bench%20(3).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911152dd8754ad0d0798654_storage-bench.webp"
+      ],
+      "publishedOn": "Tue Dec 02 2025 09:47:20 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692eb484eb550a675a8d8409",
+    "variantId": "692eb4843222e36a2faa1272",
+    "slug": "chic-dining-chairs",
+    "name": "Chic Dining Chairs",
+    "description": "These chic oak dining chairs combine comfort with modern elegance. Their clean silhouette and natural wood texture make them a perfect complement to any dining space, offering durability and style.",
+    "type": "Physical",
+    "categories": [
+      "Kitchen"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2",
+    "price": {
+      "cents": 84000,
+      "currency": "EUR",
+      "display": "€840.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/692eb494e2fa8307d15611da_dining-chair-2.webp",
+    "images": [
+      "images/products/692eb494e2fa8307d15611da_dining-chair-2.webp",
+      "images/products/692eb49ecf6fdace83fb34c7_dining-chair.webp",
+      "images/products/692eb49ee8ec8fda058a0978_dining-chair-1.webp",
+      "images/products/692eb49e2fab314ce2fa323f_dining-chair-3.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/692eb494e2fa8307d15611da_dining-chair-2.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/692eb494e2fa8307d15611da_dining-chair-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/692eb49ecf6fdace83fb34c7_dining-chair.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/692eb49ee8ec8fda058a0978_dining-chair-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/692eb49e2fab314ce2fa323f_dining-chair-3.webp"
+      ],
+      "publishedOn": "Tue Dec 02 2025 09:47:20 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692ea39d88874a81e28fb09e",
+    "variantId": "692ea39ee2e93f687a7f6471",
+    "slug": "tv-stand",
+    "name": "TV Stand",
+    "description": "This elegant TV stand offers a refined way to showcase your television and media devices. Its clean lines and functional storage bring a balanced mix of style and practicality to any living space.",
+    "type": "Physical",
+    "categories": [
+      "Livingroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2",
+    "price": {
+      "cents": 24400,
+      "currency": "EUR",
+      "display": "€244.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/691114c4ad3d56a094072352_tv-stand-2--4-.webp",
+    "images": [
+      "images/products/691114c4ad3d56a094072352_tv-stand-2--4-.webp",
+      "images/products/691114acf30d265c02b759f1_tv-stand-1.webp",
+      "images/products/691114c4892e9c42343bcb80_tv-stand-2--3-.webp",
+      "images/products/691114c48664fc7bd29f56bd_tv-stand-2.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691114c4ad3d56a094072352_tv-stand-2%20(4).webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691114c4ad3d56a094072352_tv-stand-2%20(4).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691114acf30d265c02b759f1_tv-stand-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691114c4892e9c42343bcb80_tv-stand-2%20(3).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691114c48664fc7bd29f56bd_tv-stand-2.webp"
+      ],
+      "publishedOn": "Tue Dec 02 2025 09:47:20 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692df2e2a7b7c9933c258a6e",
+    "variantId": "692df2e357aa7411ab4e0885",
+    "slug": "modern-bathroom-vanity",
+    "name": "Modern Bathroom Vanity",
+    "description": "This modern bathroom vanity combines sleek lines with practical storage, offering a refined look that elevates any bathroom. Its durable build and minimalist design ensure lasting style.",
+    "type": "Physical",
+    "categories": [
+      "Bedroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2",
+    "price": {
+      "cents": 82000,
+      "currency": "EUR",
+      "display": "€820.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/69111482c6b6563bdcf0300b_bathroom-vanity.webp",
+    "images": [
+      "images/products/69111482c6b6563bdcf0300b_bathroom-vanity.webp",
+      "images/products/691114958664fc7bd29f50d5_bathroom-vanity--2-.webp",
+      "images/products/69111495d19f64d9414b70cf_bathroom-vanity-2.webp",
+      "images/products/6911149589db11369b35157a_bathroom-vanity-1.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111482c6b6563bdcf0300b_bathroom-vanity.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111482c6b6563bdcf0300b_bathroom-vanity.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691114958664fc7bd29f50d5_bathroom-vanity%20(2).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111495d19f64d9414b70cf_bathroom-vanity-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911149589db11369b35157a_bathroom-vanity-1.webp"
+      ],
+      "publishedOn": "Mon Dec 01 2025 20:33:25 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692df20bb136d048e7bc6d62",
+    "variantId": "692df20c2481b1bed1a91eca",
+    "slug": "stylish-bed-frame",
+    "name": "Stylish Bed Frame",
+    "description": "This stylish oak bed frame delivers excellent stability and a refined modern look. Its natural grain, durable structure, and clean lines make it a perfect foundation for a comfortable bedroom.",
+    "type": "Physical",
+    "categories": [
+      "Bedroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=2",
+    "price": {
+      "cents": 75000,
+      "currency": "EUR",
+      "display": "€750.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/6911145dec556cc38f7014a3_bed-frame--2-.webp",
+    "images": [
+      "images/products/6911145dec556cc38f7014a3_bed-frame--2-.webp",
+      "images/products/6911146cd530f00767856895_bed-frame.webp",
+      "images/products/6911146c0659cf1cfeb7e0c7_bed-frame-1.webp",
+      "images/products/6932c4e0538f48aa9da01429_bed-frame-5.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911145dec556cc38f7014a3_bed-frame%20(2).webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911145dec556cc38f7014a3_bed-frame%20(2).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911146cd530f00767856895_bed-frame.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911146c0659cf1cfeb7e0c7_bed-frame-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c4e0538f48aa9da01429_bed-frame-5.webp"
+      ],
+      "publishedOn": "Mon Dec 01 2025 20:33:25 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692df15d93b0336e3cd60104",
+    "variantId": "692df15f3679e5b3e9dd1bdc",
+    "slug": "contemporary-desk-chair",
+    "name": "Contemporary Desk Chair",
+    "description": "This contemporary desk chair brings modern style and everyday comfort to your workspace. Crafted from durable MDF, it offers reliable support, clean lines, and a refined look ideal for any office.",
+    "type": "Physical",
+    "categories": [
+      "Livingroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3",
+    "price": {
+      "cents": 33300,
+      "currency": "EUR",
+      "display": "€333.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/69111436c87ecd715d392700_desk-chair-1.webp",
+    "images": [
+      "images/products/69111436c87ecd715d392700_desk-chair-1.webp",
+      "images/products/6911144780f7c5be5b3c776b_desk-chair-2.webp",
+      "images/products/6932c50890f5fb171f2d03e4_desk-chair-3.webp",
+      "images/products/6932c5084bc647a7e654c1c5_desk-chair-4.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111436c87ecd715d392700_desk-chair-1.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/69111436c87ecd715d392700_desk-chair-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911144780f7c5be5b3c776b_desk-chair-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c50890f5fb171f2d03e4_desk-chair-3.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c5084bc647a7e654c1c5_desk-chair-4.webp"
+      ],
+      "publishedOn": "Mon Dec 01 2025 20:33:25 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692d8a96a672278538383e60",
+    "variantId": "692d8a97435122bcf1724bb1",
+    "slug": "luxury-sofa-set",
+    "name": "Luxury Sofa Set",
+    "description": "This luxury sofa set provides exceptional comfort and refined style, featuring plush cushions and a modern silhouette. A perfect centerpiece to elevate the warmth and elegance of your living room.",
+    "type": "Physical",
+    "categories": [
+      "Bedroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3",
+    "price": {
+      "cents": 53000,
+      "currency": "EUR",
+      "display": "€530.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/6911141a0170aec328866241_bed-frame--3-.webp",
+    "images": [
+      "images/products/6911141a0170aec328866241_bed-frame--3-.webp",
+      "images/products/6932c521b382a6a445f73dd7_bed-frame-1.webp",
+      "images/products/6932c5217a44929b7330ed84_bed-frame-2.webp",
+      "images/products/6932c521ec4af488c1b02eef_bed-frame-3.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911141a0170aec328866241_bed-frame%20(3).webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6911141a0170aec328866241_bed-frame%20(3).webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c521b382a6a445f73dd7_bed-frame-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c5217a44929b7330ed84_bed-frame-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c521ec4af488c1b02eef_bed-frame-3.webp"
+      ],
+      "publishedOn": "Mon Dec 01 2025 20:33:25 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692d89e522a9331d75e5816f",
+    "variantId": "692d89e564024d20ae96f696",
+    "slug": "rustic-coffee-table",
+    "name": "Rustic Coffee Table",
+    "description": "This rustic coffee table brings natural texture and Scandinavian simplicity to your space. Crafted with a linen-finish surface, it offers warm character and practical everyday functionality.",
+    "type": "Physical",
+    "categories": [
+      "Livingroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3",
+    "price": {
+      "cents": 25000,
+      "currency": "EUR",
+      "display": "€250.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/691113db35ff37458f72e7ac_coffee-table.webp",
+    "images": [
+      "images/products/691113db35ff37458f72e7ac_coffee-table.webp",
+      "images/products/691113ede01153676e15817a_coffee-table-1.webp",
+      "images/products/6932c551c84095be6d52d7e0_rustic-coffee-table-1.webp",
+      "images/products/6932c552bb5a7be9b0827a3f_rustic-coffee-table-2.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691113db35ff37458f72e7ac_coffee-table.webp",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691113db35ff37458f72e7ac_coffee-table.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/691113ede01153676e15817a_coffee-table-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c551c84095be6d52d7e0_rustic-coffee-table-1.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c552bb5a7be9b0827a3f_rustic-coffee-table-2.webp"
+      ],
+      "publishedOn": "Mon Dec 01 2025 20:33:25 GMT+0000 (Coordinated Universal Time)"
+    }
+  },
+  {
+    "id": "692d8795bd23bcdb5895d7c6",
+    "variantId": "692d87953e6f2057b40175bd",
+    "slug": "modern-bench",
+    "name": "Modern Bench",
+    "description": "This modern Scandinavian bench crafted from natural oak brings warmth and minimal elegance to any space. Its sturdy build and clean lines make it ideal for living rooms, hallways, or entry zones.",
+    "type": "Physical",
+    "categories": [
+      "Livingroom"
+    ],
+    "categorySource": "https://wooden-factory.webflow.io/product-categories?6a62d223_page=3",
+    "price": {
+      "cents": 20000,
+      "currency": "EUR",
+      "display": "€200.00"
+    },
+    "compareAtPrice": null,
+    "sku": "",
+    "inventory": null,
+    "requiresShipping": true,
+    "dimensions": {
+      "weight": null,
+      "width": null,
+      "height": null,
+      "length": null
+    },
+    "options": [],
+    "cover": "images/products/6932c5872669bbb4a204c3cc_scandinavian-bench-4.jpg",
+    "images": [
+      "images/products/6932c5872669bbb4a204c3cc_scandinavian-bench-4.jpg",
+      "images/products/6932c586206ac99e69927e45_scandinavian-bench-2.webp",
+      "images/products/6932c58689c9db9298464ef3_scandinavian-bench-3.webp",
+      "images/products/6932c58684d253ed84c20fab_scandinavian-bench-5.webp"
+    ],
+    "source": {
+      "cover": "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c5872669bbb4a204c3cc_scandinavian-bench-4.jpg",
+      "images": [
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c5872669bbb4a204c3cc_scandinavian-bench-4.jpg",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c586206ac99e69927e45_scandinavian-bench-2.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c58689c9db9298464ef3_scandinavian-bench-3.webp",
+        "https://cdn.prod.website-files.com/670a3ad75dea78b4501e5ebf/6932c58684d253ed84c20fab_scandinavian-bench-5.webp"
+      ],
+      "publishedOn": "Mon Dec 01 2025 20:33:25 GMT+0000 (Coordinated Universal Time)"
+    }
+  }
+]
