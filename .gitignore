@@ -1,0 +1,14 @@
+# Keep the original export locally; track the extracted website.
+*.zip
+*.7z
+*.rar
+
+# Local tools and operating-system files.
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
