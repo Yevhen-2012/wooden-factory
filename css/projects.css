@@ -1,0 +1,41 @@
+/* Fit real CMS content inside the existing Webflow card and gallery layouts. */
+.cms-project-card { display: block; }
+.cms-project-card .latest-project-link-description {
+  width: max-content;
+  max-width: 90%;
+  height: auto;
+  min-height: 3rem;
+  padding: .4rem .75rem;
+}
+.cms-project-card .text-block { line-height: 1.35; overflow-wrap: anywhere; }
+.cms-project-card .latest-project-link-bottom-descr {
+  grid-template-columns: 1fr 1fr;
+  padding-right: 20px;
+}
+.cms-project-card time { text-align: right; }
+.cms-gallery-open { display: block; }
+.cms-gallery-open:focus-visible { outline: 3px solid #76664d; outline-offset: 4px; }
+.lb__cms { column-count: 3; column-gap: 16px; padding: 20px 0; }
+.lb__collection-item { margin-bottom: 16px; break-inside: avoid; }
+.lb-thumb { border-radius: 8px; cursor: zoom-in; }
+.lb { position: fixed; inset: 0; display: none; z-index: 9999; }
+.lb.is-open { display: block; }
+.lb__backdrop { position: absolute; inset: 0; background: rgb(0 0 0 / 75%); }
+.lb__panel { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; padding: 24px; pointer-events: none; }
+.lb__img { max-width: min(1100px, 92vw); max-height: 86vh; object-fit: contain; border-radius: 12px; pointer-events: auto; }
+.lb__close, .lb__prev, .lb__next {
+  position: absolute; top: 18px; right: 18px; background: rgb(0 0 0 / 65%);
+  border: 1px solid rgb(255 255 255 / 50%); color: #fff; padding: 10px 12px;
+  border-radius: 10px; cursor: pointer; pointer-events: auto;
+}
+.lb__prev, .lb__next { top: 50%; transform: translateY(-50%); right: auto; }
+.lb__prev { left: 18px; }
+.lb__next { right: 18px; }
+.lb__counter { position: absolute; left: 18px; top: 18px; color: #fff; font-size: 14px; }
+html.lb-lock, body.lb-lock { overflow: hidden; }
+@media (max-width: 991px) { .lb__cms { column-count: 2; } }
+@media (max-width: 600px) { .lb__cms { column-count: 1; } }
+@media (max-width: 479px) {
+  .cms-project-card .latest-project-link-bottom-descr { grid-template-columns: 1fr; gap: 0; }
+  .cms-project-card time { text-align: left; }
+}
